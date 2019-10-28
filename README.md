@@ -12,7 +12,7 @@ Episode 2: Second Youtube Tutorial: X-Plane 11 Simulink Real-Time UDP Communicat
 https://youtu.be/bzvOqq_Kx_E
 
 
-Until now I haven't found any video about this topic in internet. So this is my first try. Sorry if I have any mistakes or not describing the concepts clear. 
+Until now I haven't found any video about this topic in internet. So I decided to do it myself. This is my first try. Sorry if I have any mistakes or not describing the concepts clear. 
 --------------------------
 This project is Also avaliable in Mathworks File Exchange platform:
 https://www.mathworks.com/matlabcentral/fileexchange/72967-x-plane-11-simulink-real-time-communication
