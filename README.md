@@ -19,8 +19,6 @@ https://www.mathworks.com/matlabcentral/fileexchange/72967-x-plane-11-simulink-r
 
 
 -----------------------------
-
-
 Give me your feedback and any comments or questions in E-Mail.
 If you have real-world projects and need help you can contact me as well. I can help join your team in your projects as well.
 
