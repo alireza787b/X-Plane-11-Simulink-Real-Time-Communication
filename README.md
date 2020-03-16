@@ -26,6 +26,6 @@ If you have real-world projects and need help you can contact me as well. I can 
 
 E-mail: Ghaderi@alumsharif.org
 E-mail: p30planets@gmail.com
-Whatsapp: +989223656062
-Telegram: @alireza787b   +989190123481
+Whatsapp: +989190123481
+Telegram: @alireza787b   
 Instagram: Alireza787b
